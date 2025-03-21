@@ -1,0 +1,2912 @@
+{
+  "year": 2022,
+  "members": [
+    {
+      "name": "이연섭",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "허수창",
+      "score": {
+        "5월": 92,
+        "10월": 91
+      },
+      "best_score": 91,
+      "handicap": 19
+    },
+    {
+      "name": "이남구",
+      "score": {
+        "5월": 95
+      },
+      "best_score": 95,
+      "handicap": 23
+    },
+    {
+      "name": "박상규",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "임매자",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "정영경",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "정진구",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "강권철",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "강덕중",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "금인호",
+      "score": {
+        "3월": 96,
+        "4월": 90,
+        "5월": 91,
+        "6월": 89,
+        "8월": 86,
+        "9월": 89,
+        "10월": 89,
+        "11월": 96
+      },
+      "best_score": 86,
+      "handicap": 18
+    },
+    {
+      "name": "김억조",
+      "score": {
+        "4월": 89,
+        "8월": 78,
+        "9월": 84
+      },
+      "best_score": 78,
+      "handicap": 11
+    },
+    {
+      "name": "김용빈",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "김준명",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "송영옥",
+      "score": {
+        "3월": 91
+      },
+      "best_score": 91,
+      "handicap": 19
+    },
+    {
+      "name": "안양균",
+      "score": {
+        "4월": 92,
+        "5월": 92,
+        "6월": 86,
+        "9월": 91,
+        "10월": 89,
+        "11월": 92
+      },
+      "best_score": 86,
+      "handicap": 18
+    },
+    {
+      "name": "유권철",
+      "score": {
+        "8월": 81
+      },
+      "best_score": 81,
+      "handicap": 9
+    },
+    {
+      "name": "유달준",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "윤상호",
+      "score": {
+        "3월": 95,
+        "5월": 91,
+        "6월": 88,
+        "9월": 91,
+        "10월": 89
+      },
+      "best_score": 88,
+      "handicap": 18
+    },
+    {
+      "name": "이공욱",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "이명식",
+      "score": {
+        "11월": 96
+      },
+      "best_score": 96,
+      "handicap": 24
+    },
+    {
+      "name": "이은식",
+      "score": {
+        "3월": 95,
+        "4월": 90,
+        "5월": 94,
+        "6월": 85,
+        "8월": 92,
+        "10월": 86,
+        "11월": 95
+      },
+      "best_score": 85,
+      "handicap": 19
+    },
+    {
+      "name": "임풍화",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "조석순",
+      "score": {
+        "4월": 85
+      },
+      "best_score": 85,
+      "handicap": 13
+    },
+    {
+      "name": "김기령",
+      "score": {
+        "3월": 85,
+        "4월": 88,
+        "5월": 90,
+        "6월": 79,
+        "10월": 90,
+        "11월": 89
+      },
+      "best_score": 79,
+      "handicap": 14
+    },
+    {
+      "name": "김연숙",
+      "score": {
+        "3월": 95,
+        "4월": 96,
+        "5월": 94,
+        "6월": 87,
+        "11월": 95
+      },
+      "best_score": 87,
+      "handicap": 21
+    },
+    {
+      "name": "김진완",
+      "score": {
+        "10월": 99
+      },
+      "best_score": 99,
+      "handicap": 27
+    },
+    {
+      "name": "문선",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "문창숙",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "박남준",
+      "score": {
+        "4월": 93,
+        "5월": 89,
+        "6월": 84,
+        "10월": 96,
+        "11월": 93
+      },
+      "best_score": 84,
+      "handicap": 19
+    },
+    {
+      "name": "유원재",
+      "score": {
+        "10월": 90
+      },
+      "best_score": 90,
+      "handicap": 18
+    },
+    {
+      "name": "윤소영",
+      "score": {
+        "11월": 94
+      },
+      "best_score": 94,
+      "handicap": 22
+    },
+    {
+      "name": "이양배",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "이필녀",
+      "score": {
+        "10월": 98
+      },
+      "best_score": 98,
+      "handicap": 26
+    },
+    {
+      "name": "한태명",
+      "score": {
+        "10월": 92
+      },
+      "best_score": 92,
+      "handicap": 20
+    },
+    {
+      "name": "홍기영",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "홍사성",
+      "score": {
+        "4월": 90,
+        "5월": 86,
+        "10월": 86
+      },
+      "best_score": 86,
+      "handicap": 15
+    },
+    {
+      "name": "박흥주",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "이규용",
+      "score": {
+        "5월": 87,
+        "10월": 82
+      },
+      "best_score": 82,
+      "handicap": 12
+    },
+    {
+      "name": "손창조",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "정난용",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "정윤용",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "김도태",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "심영숙",
+      "score": {
+        "6월": 87
+      },
+      "best_score": 87,
+      "handicap": 15
+    },
+    {
+      "name": "안남신",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "김원재",
+      "score": {
+        "10월": 95
+      },
+      "best_score": 95,
+      "handicap": 23
+    },
+    {
+      "name": "김종만",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "성국현",
+      "score": {
+        "11월": 86
+      },
+      "best_score": 86,
+      "handicap": 14
+    },
+    {
+      "name": "안희태",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "원유동",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "이강년",
+      "score": {
+        "4월": 85,
+        "5월": 97,
+        "10월": 90
+      },
+      "best_score": 85,
+      "handicap": 18
+    },
+    {
+      "name": "이기열",
+      "score": {
+        "10월": 89,
+        "11월": 84
+      },
+      "best_score": 84,
+      "handicap": 14
+    },
+    {
+      "name": "이성일",
+      "score": {
+        "10월": 88,
+        "11월": 86
+      },
+      "best_score": 86,
+      "handicap": 15
+    },
+    {
+      "name": "임우성",
+      "score": {
+        "5월": 85,
+        "10월": 84
+      },
+      "best_score": 84,
+      "handicap": 12
+    },
+    {
+      "name": "정인모",
+      "score": {
+        "5월": 91,
+        "11월": 87
+      },
+      "best_score": 87,
+      "handicap": 17
+    },
+    {
+      "name": "권영선",
+      "score": {
+        "5월": 78,
+        "6월": 83,
+        "10월": 86
+      },
+      "best_score": 78,
+      "handicap": 10
+    },
+    {
+      "name": "권오광",
+      "score": {
+        "10월": 91
+      },
+      "best_score": 91,
+      "handicap": 19
+    },
+    {
+      "name": "김경헌",
+      "score": {
+        "4월": 93,
+        "5월": 104,
+        "6월": 104,
+        "10월": 89,
+        "11월": 91
+      },
+      "best_score": 89,
+      "handicap": 24
+    },
+    {
+      "name": "김미정",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "김원오",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "김인자",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "노희숙",
+      "score": {
+        "3월": 95,
+        "4월": 97,
+        "10월": 89
+      },
+      "best_score": 89,
+      "handicap": 21
+    },
+    {
+      "name": "박재식",
+      "score": {
+        "3월": 96,
+        "4월": 85,
+        "6월": 86,
+        "8월": 82,
+        "10월": 94,
+        "11월": 87
+      },
+      "best_score": 82,
+      "handicap": 16
+    },
+    {
+      "name": "백준기",
+      "score": {
+        "10월": 85
+      },
+      "best_score": 85,
+      "handicap": 13
+    },
+    {
+      "name": "양승우",
+      "score": {
+        "4월": 80,
+        "5월": 85,
+        "8월": 77
+      },
+      "best_score": 77,
+      "handicap": 8
+    },
+    {
+      "name": "윤관선",
+      "score": {
+        "3월": 86,
+        "5월": 80,
+        "10월": 83
+      },
+      "best_score": 80,
+      "handicap": 11
+    },
+    {
+      "name": "이진형",
+      "score": {
+        "3월": 81,
+        "4월": 83,
+        "5월": 81,
+        "10월": 85,
+        "11월": 81
+      },
+      "best_score": 81,
+      "handicap": 10
+    },
+    {
+      "name": "장재숙",
+      "score": {
+        "3월": 88,
+        "5월": 93
+      },
+      "best_score": 88,
+      "handicap": 18
+    },
+    {
+      "name": "차경호",
+      "score": {
+        "10월": 89
+      },
+      "best_score": 89,
+      "handicap": 17
+    },
+    {
+      "name": "최희경",
+      "score": {
+        "3월": 93,
+        "5월": 96,
+        "10월": 89,
+        "11월": 94
+      },
+      "best_score": 89,
+      "handicap": 21
+    },
+    {
+      "name": "현숙희",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "홍영규",
+      "score": {
+        "4월": 95,
+        "10월": 88
+      },
+      "best_score": 88,
+      "handicap": 19
+    },
+    {
+      "name": "홍용규",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "홍진오",
+      "score": {
+        "3월": 94,
+        "5월": 90,
+        "6월": 88,
+        "8월": 90,
+        "10월": 92
+      },
+      "best_score": 88,
+      "handicap": 18
+    },
+    {
+      "name": "허명렬",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "고경석",
+      "score": {
+        "10월": 84
+      },
+      "best_score": 84,
+      "handicap": 12
+    },
+    {
+      "name": "권영순",
+      "score": {
+        "3월": 93,
+        "4월": 88,
+        "5월": 89,
+        "8월": 88,
+        "10월": 83
+      },
+      "best_score": 83,
+      "handicap": 16
+    },
+    {
+      "name": "권오성",
+      "score": {
+        "3월": 82,
+        "4월": 87,
+        "5월": 81,
+        "6월": 87,
+        "8월": 95,
+        "9월": 79,
+        "10월": 83,
+        "11월": 85
+      },
+      "best_score": 79,
+      "handicap": 12
+    },
+    {
+      "name": "김진",
+      "score": {
+        "4월": 84,
+        "5월": 82,
+        "6월": 83,
+        "8월": 87,
+        "9월": 85,
+        "10월": 86
+      },
+      "best_score": 82,
+      "handicap": 12
+    },
+    {
+      "name": "문경호",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "서동훈",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "심상인",
+      "score": {
+        "5월": 79,
+        "8월": 80,
+        "10월": 81
+      },
+      "best_score": 79,
+      "handicap": 8
+    },
+    {
+      "name": "안정애",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "이경희",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "이미영",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "이승미",
+      "score": {
+        "3월": 84,
+        "5월": 92,
+        "6월": 88,
+        "8월": 92
+      },
+      "best_score": 84,
+      "handicap": 17
+    },
+    {
+      "name": "이준희",
+      "score": {
+        "4월": 85,
+        "8월": 79,
+        "9월": 82,
+        "10월": 88
+      },
+      "best_score": 79,
+      "handicap": 11
+    },
+    {
+      "name": "정영섭",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "진양교",
+      "score": {
+        "4월": 78,
+        "5월": 78,
+        "6월": 79,
+        "8월": 81,
+        "9월": 78
+      },
+      "best_score": 78,
+      "handicap": 6
+    },
+    {
+      "name": "최관호",
+      "score": {
+        "3월": 78,
+        "4월": 79,
+        "5월": 79,
+        "6월": 72,
+        "8월": 75,
+        "9월": 85,
+        "10월": 79,
+        "11월": 79
+      },
+      "best_score": 72,
+      "handicap": 6
+    },
+    {
+      "name": "김원기",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "민병완",
+      "score": {
+        "10월": 86
+      },
+      "best_score": 86,
+      "handicap": 14
+    },
+    {
+      "name": "박소연",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "송진우",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "이용범",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "이한석",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "천홍득",
+      "score": {
+        "10월": 84
+      },
+      "best_score": 84,
+      "handicap": 12
+    },
+    {
+      "name": "강병헌",
+      "score": {
+        "5월": 92
+      },
+      "best_score": 92,
+      "handicap": 20
+    },
+    {
+      "name": "고광덕",
+      "score": {
+        "4월": 88,
+        "5월": 80,
+        "6월": 83,
+        "8월": 82,
+        "9월": 77,
+        "10월": 78,
+        "11월": 76
+      },
+      "best_score": 76,
+      "handicap": 8
+    },
+    {
+      "name": "김상우",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "김양숙",
+      "score": {
+        "5월": 87,
+        "10월": 80
+      },
+      "best_score": 80,
+      "handicap": 11
+    },
+    {
+      "name": "김영순",
+      "score": {
+        "3월": 90,
+        "4월": 90,
+        "5월": 93,
+        "6월": 91,
+        "8월": 93,
+        "9월": 88,
+        "10월": 96
+      },
+      "best_score": 88,
+      "handicap": 19
+    },
+    {
+      "name": "김완수",
+      "score": {
+        "4월": 84,
+        "6월": 84,
+        "8월": 83,
+        "10월": 87
+      },
+      "best_score": 83,
+      "handicap": 12
+    },
+    {
+      "name": "김재헌",
+      "score": {
+        "10월": 103,
+        "11월": 99
+      },
+      "best_score": 99,
+      "handicap": 29
+    },
+    {
+      "name": "김판규",
+      "score": {
+        "5월": 85,
+        "8월": 80,
+        "10월": 70
+      },
+      "best_score": 70,
+      "handicap": 6
+    },
+    {
+      "name": "김해천",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "금준석",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "김희수",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "박춘기",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "변삼선",
+      "score": {
+        "3월": 87,
+        "4월": 95,
+        "5월": 86,
+        "6월": 90,
+        "8월": 88,
+        "9월": 83,
+        "10월": 91
+      },
+      "best_score": 83,
+      "handicap": 16
+    },
+    {
+      "name": "양경미",
+      "score": {
+        "3월": 83,
+        "4월": 90,
+        "5월": 92,
+        "6월": 87,
+        "8월": 81,
+        "10월": 91,
+        "11월": 79
+      },
+      "best_score": 79,
+      "handicap": 14
+    },
+    {
+      "name": "양회란",
+      "score": {
+        "5월": 88,
+        "10월": 90
+      },
+      "best_score": 88,
+      "handicap": 17
+    },
+    {
+      "name": "연경희",
+      "score": {
+        "3월": 88,
+        "4월": 89,
+        "5월": 89,
+        "6월": 91,
+        "9월": 83,
+        "10월": 96,
+        "11월": 83
+      },
+      "best_score": 83,
+      "handicap": 16
+    },
+    {
+      "name": "유동훈",
+      "score": {
+        "5월": 89,
+        "6월": 103,
+        "9월": 87,
+        "11월": 85
+      },
+      "best_score": 85,
+      "handicap": 19
+    },
+    {
+      "name": "이경진",
+      "score": {
+        "3월": 86,
+        "4월": 84,
+        "5월": 82,
+        "6월": 77,
+        "8월": 77,
+        "9월": 83,
+        "10월": 78,
+        "11월": 84
+      },
+      "best_score": 77,
+      "handicap": 9
+    },
+    {
+      "name": "이재훈",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "정병덕",
+      "score": {
+        "4월": 102,
+        "10월": 106,
+        "11월": 102
+      },
+      "best_score": 102,
+      "handicap": 31
+    },
+    {
+      "name": "한종수",
+      "score": {
+        "10월": 86,
+        "11월": 92
+      },
+      "best_score": 86,
+      "handicap": 17
+    },
+    {
+      "name": "허석자",
+      "score": {
+        "3월": 90,
+        "4월": 87,
+        "5월": 86,
+        "6월": 86,
+        "8월": 88,
+        "9월": 88,
+        "10월": 87,
+        "11월": 83
+      },
+      "best_score": 83,
+      "handicap": 14
+    },
+    {
+      "name": "김권섭",
+      "score": {
+        "3월": 96,
+        "4월": 88,
+        "6월": 83,
+        "8월": 94,
+        "9월": 98,
+        "10월": 90,
+        "11월": 92
+      },
+      "best_score": 83,
+      "handicap": 19
+    },
+    {
+      "name": "김덕중",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "김정일",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "김학승",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "노형식",
+      "score": {
+        "3월": 84,
+        "4월": 79,
+        "5월": 79,
+        "8월": 87,
+        "10월": 75
+      },
+      "best_score": 75,
+      "handicap": 8
+    },
+    {
+      "name": "박세환",
+      "score": {
+        "3월": 72,
+        "4월": 71,
+        "5월": 75,
+        "6월": 72,
+        "8월": 75,
+        "9월": 76,
+        "10월": 77,
+        "11월": 80
+      },
+      "best_score": 71,
+      "handicap": 2
+    },
+    {
+      "name": "안경옥",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "오현덕",
+      "score": {
+        "6월": 97
+      },
+      "best_score": 97,
+      "handicap": 25
+    },
+    {
+      "name": "오호진",
+      "score": {
+        "3월": 80,
+        "4월": 79,
+        "5월": 79,
+        "6월": 82,
+        "8월": 80,
+        "10월": 83,
+        "11월": 86
+      },
+      "best_score": 79,
+      "handicap": 9
+    },
+    {
+      "name": "이상우",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "이인영",
+      "score": {
+        "3월": 90,
+        "5월": 96,
+        "10월": 93,
+        "11월": 86
+      },
+      "best_score": 86,
+      "handicap": 19
+    },
+    {
+      "name": "이채명",
+      "score": {
+        "3월": 99,
+        "4월": 88,
+        "5월": 94,
+        "6월": 91,
+        "8월": 88,
+        "9월": 103,
+        "10월": 96
+      },
+      "best_score": 88,
+      "handicap": 22
+    },
+    {
+      "name": "이현자",
+      "score": {
+        "3월": 94,
+        "5월": 92,
+        "6월": 95,
+        "8월": 97,
+        "9월": 97,
+        "10월": 96,
+        "11월": 92
+      },
+      "best_score": 92,
+      "handicap": 22
+    },
+    {
+      "name": "임동우",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "임승호",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "장덕상",
+      "score": {
+        "10월": 86
+      },
+      "best_score": 86,
+      "handicap": 14
+    },
+    {
+      "name": "장세준",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "장세걸",
+      "score": {
+        "3월": 90,
+        "4월": 90,
+        "5월": 85,
+        "6월": 84,
+        "8월": 84,
+        "9월": 90,
+        "10월": 88,
+        "11월": 93
+      },
+      "best_score": 84,
+      "handicap": 16
+    },
+    {
+      "name": "장영석",
+      "score": {
+        "10월": 97
+      },
+      "best_score": 97,
+      "handicap": 25
+    },
+    {
+      "name": "정연삼",
+      "score": {
+        "3월": 89,
+        "5월": 89,
+        "8월": 89
+      },
+      "best_score": 89,
+      "handicap": 17
+    },
+    {
+      "name": "조남재",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "최정욱",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "최창동",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "김석산",
+      "score": {
+        "10월": 95
+      },
+      "best_score": 95,
+      "handicap": 23
+    },
+    {
+      "name": "김재원",
+      "score": {
+        "5월": 98,
+        "6월": 92,
+        "8월": 90,
+        "9월": 86,
+        "10월": 100,
+        "11월": 97
+      },
+      "best_score": 86,
+      "handicap": 21
+    },
+    {
+      "name": "김태희",
+      "score": {
+        "5월": 93,
+        "6월": 89,
+        "9월": 83,
+        "11월": 91
+      },
+      "best_score": 83,
+      "handicap": 17
+    },
+    {
+      "name": "박경렬",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "신인기",
+      "score": {
+        "10월": 84
+      },
+      "best_score": 84,
+      "handicap": 12
+    },
+    {
+      "name": "양경숙",
+      "score": {
+        "5월": 93,
+        "9월": 89,
+        "10월": 92,
+        "11월": 101
+      },
+      "best_score": 89,
+      "handicap": 21
+    },
+    {
+      "name": "한순영",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "우종만",
+      "score": {
+        "10월": 90
+      },
+      "best_score": 90,
+      "handicap": 18
+    },
+    {
+      "name": "윤해균",
+      "score": {
+        "5월": 85,
+        "6월": 88,
+        "9월": 83,
+        "10월": 77,
+        "11월": 83
+      },
+      "best_score": 77,
+      "handicap": 11
+    },
+    {
+      "name": "전현수",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "최재영",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "김영준",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "박혜숙",
+      "score": {
+        "11월": 106
+      },
+      "best_score": 106,
+      "handicap": 34
+    },
+    {
+      "name": "서운택",
+      "score": {
+        "11월": 101
+      },
+      "best_score": 101,
+      "handicap": 29
+    },
+    {
+      "name": "이상복",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "강인식",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "금화진",
+      "score": {
+        "11월": 95
+      },
+      "best_score": 95,
+      "handicap": 23
+    },
+    {
+      "name": "김인열",
+      "score": {
+        "9월": 90,
+        "11월": 89
+      },
+      "best_score": 89,
+      "handicap": 17
+    },
+    {
+      "name": "김창집",
+      "score": {
+        "9월": 88,
+        "10월": 90,
+        "11월": 88
+      },
+      "best_score": 88,
+      "handicap": 16
+    },
+    {
+      "name": "백승철",
+      "score": {
+        "11월": 103
+      },
+      "best_score": 103,
+      "handicap": 31
+    },
+    {
+      "name": "안재각",
+      "score": {
+        "11월": 84
+      },
+      "best_score": 84,
+      "handicap": 12
+    },
+    {
+      "name": "오방원",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "이성철",
+      "score": {
+        "9월": 87,
+        "10월": 82,
+        "11월": 90
+      },
+      "best_score": 82,
+      "handicap": 14
+    },
+    {
+      "name": "이용희",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "이호원",
+      "score": {
+        "8월": 78,
+        "9월": 84,
+        "10월": 82,
+        "11월": 84
+      },
+      "best_score": 78,
+      "handicap": 10
+    },
+    {
+      "name": "최형철",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "최홍영",
+      "score": {
+        "10월": 93,
+        "11월": 96
+      },
+      "best_score": 93,
+      "handicap": 22
+    },
+    {
+      "name": "김기태",
+      "score": {
+        "10월": 81
+      },
+      "best_score": 81,
+      "handicap": 9
+    },
+    {
+      "name": "김동원",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "김문환",
+      "score": {
+        "4월": 80,
+        "6월": 76,
+        "10월": 80
+      },
+      "best_score": 76,
+      "handicap": 6
+    },
+    {
+      "name": "김미미",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "김영호",
+      "score": {
+        "4월": 97,
+        "6월": 86,
+        "9월": 92,
+        "10월": 93,
+        "11월": 91
+      },
+      "best_score": 86,
+      "handicap": 19
+    },
+    {
+      "name": "김진구",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "김태형",
+      "score": {
+        "4월": 85,
+        "6월": 85,
+        "8월": 84,
+        "9월": 83,
+        "10월": 86,
+        "11월": 82
+      },
+      "best_score": 82,
+      "handicap": 12
+    },
+    {
+      "name": "김해영",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "김호련",
+      "score": {
+        "10월": 84
+      },
+      "best_score": 84,
+      "handicap": 12
+    },
+    {
+      "name": "박혜경",
+      "score": {
+        "8월": 83,
+        "9월": 86
+      },
+      "best_score": 83,
+      "handicap": 12
+    },
+    {
+      "name": "서대석",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "심영복",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "안영광",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "원관희",
+      "score": {
+        "10월": 91
+      },
+      "best_score": 91,
+      "handicap": 19
+    },
+    {
+      "name": "이우창",
+      "score": {
+        "4월": 84,
+        "10월": 88
+      },
+      "best_score": 84,
+      "handicap": 14
+    },
+    {
+      "name": "이항복",
+      "score": {
+        "6월": 77
+      },
+      "best_score": 77,
+      "handicap": 5
+    },
+    {
+      "name": "임미경",
+      "score": {
+        "4월": 87,
+        "5월": 92,
+        "6월": 90
+      },
+      "best_score": 87,
+      "handicap": 17
+    },
+    {
+      "name": "장진원",
+      "score": {
+        "3월": 71,
+        "8월": 73,
+        "9월": 84,
+        "10월": 75,
+        "11월": 73
+      },
+      "best_score": 71,
+      "handicap": 3
+    },
+    {
+      "name": "정연석",
+      "score": {
+        "4월": 95,
+        "9월": 86
+      },
+      "best_score": 86,
+      "handicap": 18
+    },
+    {
+      "name": "정영순",
+      "score": {
+        "5월": 98,
+        "6월": 95
+      },
+      "best_score": 95,
+      "handicap": 24
+    },
+    {
+      "name": "최두환",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "황영식",
+      "score": {
+        "10월": 99
+      },
+      "best_score": 99,
+      "handicap": 27
+    },
+    {
+      "name": "김창현",
+      "score": {
+        "10월": 89
+      },
+      "best_score": 89,
+      "handicap": 17
+    },
+    {
+      "name": "유옥현",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "이애용",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "이영희",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "김문태",
+      "score": {
+        "5월": 80,
+        "6월": 76,
+        "8월": 79,
+        "10월": 80
+      },
+      "best_score": 76,
+      "handicap": 6
+    },
+    {
+      "name": "박기로",
+      "score": {
+        "5월": 83,
+        "6월": 79,
+        "8월": 81,
+        "9월": 88,
+        "10월": 92
+      },
+      "best_score": 79,
+      "handicap": 12
+    },
+    {
+      "name": "박미신",
+      "score": {
+        "3월": 91,
+        "4월": 83,
+        "5월": 98,
+        "6월": 91,
+        "8월": 93,
+        "9월": 87,
+        "10월": 97,
+        "11월": 94
+      },
+      "best_score": 83,
+      "handicap": 19
+    },
+    {
+      "name": "박찬연",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "송인심",
+      "score": {
+        "3월": 106,
+        "6월": 91,
+        "8월": 95,
+        "9월": 101,
+        "11월": 91
+      },
+      "best_score": 91,
+      "handicap": 24
+    },
+    {
+      "name": "송태준",
+      "score": {
+        "3월": 91
+      },
+      "best_score": 91,
+      "handicap": 19
+    },
+    {
+      "name": "신태영",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "신현주",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "양동준",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "유성현",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "은혜정",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "이영화",
+      "score": {
+        "3월": 98,
+        "5월": 95,
+        "6월": 94,
+        "8월": 96,
+        "9월": 99,
+        "10월": 96,
+        "11월": 91
+      },
+      "best_score": 91,
+      "handicap": 23
+    },
+    {
+      "name": "이장원",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "이해준",
+      "score": {
+        "3월": 93,
+        "5월": 79,
+        "9월": 83,
+        "10월": 89
+      },
+      "best_score": 79,
+      "handicap": 14
+    },
+    {
+      "name": "임부귀",
+      "score": {
+        "3월": 97,
+        "4월": 92,
+        "6월": 91,
+        "8월": 86,
+        "9월": 85,
+        "10월": 93,
+        "11월": 93
+      },
+      "best_score": 85,
+      "handicap": 19
+    },
+    {
+      "name": "임은미",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "전성애",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "전환",
+      "score": {
+        "3월": 89,
+        "5월": 71
+      },
+      "best_score": 71,
+      "handicap": 8
+    },
+    {
+      "name": "조남규",
+      "score": {
+        "3월": 89,
+        "5월": 83,
+        "6월": 79,
+        "8월": 81,
+        "9월": 77,
+        "10월": 87,
+        "11월": 90
+      },
+      "best_score": 77,
+      "handicap": 11
+    },
+    {
+      "name": "조영진",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "조유연",
+      "score": {
+        "10월": 80
+      },
+      "best_score": 80,
+      "handicap": 8
+    },
+    {
+      "name": "천기수",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "최치영",
+      "score": {
+        "3월": 86,
+        "4월": 77,
+        "5월": 75,
+        "6월": 74,
+        "8월": 73,
+        "9월": 84,
+        "10월": 79
+      },
+      "best_score": 73,
+      "handicap": 6
+    },
+    {
+      "name": "한경수",
+      "score": {
+        "3월": 96,
+        "6월": 88
+      },
+      "best_score": 88,
+      "handicap": 20
+    },
+    {
+      "name": "한동직",
+      "score": {
+        "3월": 93,
+        "4월": 85,
+        "5월": 89,
+        "6월": 75,
+        "8월": 87,
+        "10월": 86
+      },
+      "best_score": 75,
+      "handicap": 13
+    },
+    {
+      "name": "한종헌",
+      "score": {
+        "9월": 79,
+        "10월": 83
+      },
+      "best_score": 79,
+      "handicap": 9
+    },
+    {
+      "name": "김형래",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "김연환",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "김성수",
+      "score": {
+        "6월": 97
+      },
+      "best_score": 97,
+      "handicap": 25
+    },
+    {
+      "name": "류지환",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "문병욱",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "변봉렬",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "소연실",
+      "score": {
+        "5월": 90,
+        "9월": 89,
+        "10월": 84
+      },
+      "best_score": 84,
+      "handicap": 15
+    },
+    {
+      "name": "유대균",
+      "score": {
+        "4월": 85,
+        "5월": 72,
+        "6월": 76,
+        "8월": 80,
+        "9월": 75,
+        "10월": 82
+      },
+      "best_score": 72,
+      "handicap": 6
+    },
+    {
+      "name": "이관의",
+      "score": {
+        "5월": 95,
+        "10월": 88
+      },
+      "best_score": 88,
+      "handicap": 19
+    },
+    {
+      "name": "이상조",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "남희승",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "이은숙",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "이장은",
+      "score": {
+        "5월": 99
+      },
+      "best_score": 99,
+      "handicap": 27
+    },
+    {
+      "name": "이종오",
+      "score": {
+        "3월": 87,
+        "4월": 88
+      },
+      "best_score": 87,
+      "handicap": 15
+    },
+    {
+      "name": "이효성",
+      "score": {
+        "3월": 98,
+        "4월": 91,
+        "5월": 91,
+        "8월": 99,
+        "9월": 93,
+        "10월": 106,
+        "11월": 92
+      },
+      "best_score": 91,
+      "handicap": 23
+    },
+    {
+      "name": "정거장",
+      "score": {
+        "3월": 84,
+        "10월": 80
+      },
+      "best_score": 80,
+      "handicap": 10
+    },
+    {
+      "name": "정윤성",
+      "score": {
+        "3월": 84,
+        "4월": 79,
+        "5월": 82,
+        "6월": 84,
+        "8월": 88,
+        "9월": 80,
+        "10월": 94,
+        "11월": 83
+      },
+      "best_score": 79,
+      "handicap": 12
+    },
+    {
+      "name": "조용노",
+      "score": {
+        "5월": 82
+      },
+      "best_score": 82,
+      "handicap": 10
+    },
+    {
+      "name": "변봉렬",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "최호석",
+      "score": {
+        "10월": 82
+      },
+      "best_score": 82,
+      "handicap": 10
+    },
+    {
+      "name": "김동환",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "김응렬",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "김현정",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "우승훈",
+      "score": {
+        "4월": 90,
+        "5월": 84,
+        "8월": 89,
+        "10월": 85,
+        "11월": 85
+      },
+      "best_score": 84,
+      "handicap": 14
+    },
+    {
+      "name": "원시향",
+      "score": {
+        "10월": 85
+      },
+      "best_score": 85,
+      "handicap": 13
+    },
+    {
+      "name": "유수홍",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "윤정희",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "이시훈",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "이윤석",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "임충빈",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "정정수",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "한정일",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "박기홍",
+      "score": {
+        "4월": 89,
+        "5월": 89,
+        "6월": 82,
+        "9월": 86,
+        "10월": 89
+      },
+      "best_score": 82,
+      "handicap": 15
+    },
+    {
+      "name": "양승식",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "이규홍",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "이대용",
+      "score": {
+        "3월": 89,
+        "4월": 90,
+        "5월": 86,
+        "6월": 85,
+        "8월": 80,
+        "9월": 90,
+        "10월": 95
+      },
+      "best_score": 80,
+      "handicap": 15
+    },
+    {
+      "name": "이동호",
+      "score": {
+        "3월": 86,
+        "4월": 84,
+        "5월": 84,
+        "6월": 75,
+        "8월": 86,
+        "9월": 77,
+        "10월": 92,
+        "11월": 82
+      },
+      "best_score": 75,
+      "handicap": 11
+    },
+    {
+      "name": "임경미",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "김우종",
+      "score": {
+        "5월": 83,
+        "9월": 84,
+        "10월": 84
+      },
+      "best_score": 83,
+      "handicap": 11
+    },
+    {
+      "name": "김형찬",
+      "score": {
+        "4월": 85,
+        "5월": 82,
+        "6월": 82,
+        "8월": 85,
+        "9월": 86,
+        "10월": 93,
+        "11월": 87
+      },
+      "best_score": 82,
+      "handicap": 13
+    },
+    {
+      "name": "류동석",
+      "score": {
+        "3월": 83,
+        "4월": 80,
+        "5월": 77,
+        "6월": 78,
+        "8월": 78,
+        "9월": 78,
+        "10월": 77,
+        "11월": 80
+      },
+      "best_score": 77,
+      "handicap": 6
+    },
+    {
+      "name": "목삼균",
+      "score": {
+        "3월": 88,
+        "4월": 83,
+        "5월": 82,
+        "6월": 79,
+        "8월": 82,
+        "9월": 81,
+        "10월": 90
+      },
+      "best_score": 79,
+      "handicap": 11
+    },
+    {
+      "name": "박상수",
+      "score": {
+        "5월": 91,
+        "6월": 79,
+        "9월": 87,
+        "10월": 82
+      },
+      "best_score": 79,
+      "handicap": 12
+    },
+    {
+      "name": "임종화",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "조일종",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "이영호",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "조일행",
+      "score": {
+        "5월": 90,
+        "6월": 83,
+        "9월": 82,
+        "10월": 86
+      },
+      "best_score": 82,
+      "handicap": 13
+    },
+    {
+      "name": "최현숙",
+      "score": {
+        "4월": 93,
+        "5월": 96,
+        "8월": 94,
+        "9월": 82,
+        "10월": 89
+      },
+      "best_score": 82,
+      "handicap": 18
+    },
+    {
+      "name": "한정민",
+      "score": {
+        "3월": 98,
+        "4월": 106,
+        "5월": 94,
+        "6월": 100,
+        "8월": 97,
+        "9월": 98,
+        "10월": 106,
+        "11월": 105
+      },
+      "best_score": 94,
+      "handicap": 28
+    },
+    {
+      "name": "황순향",
+      "score": {
+        "4월": 99,
+        "5월": 108,
+        "6월": 98,
+        "8월": 98,
+        "9월": 91,
+        "10월": 106
+      },
+      "best_score": 91,
+      "handicap": 28
+    },
+    {
+      "name": "권형영",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "김민희",
+      "score": {
+        "10월": 85
+      },
+      "best_score": 85,
+      "handicap": 13
+    },
+    {
+      "name": "김소희",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "김연중",
+      "score": {
+        "5월": 96,
+        "8월": 101,
+        "9월": 99,
+        "10월": 95
+      },
+      "best_score": 95,
+      "handicap": 25
+    },
+    {
+      "name": "김태균",
+      "score": {
+        "3월": 99
+      },
+      "best_score": 99,
+      "handicap": 27
+    },
+    {
+      "name": "임남진",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "오세형",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "안형준",
+      "score": {
+        "3월": 94,
+        "4월": 91,
+        "5월": 88,
+        "6월": 87,
+        "8월": 97,
+        "9월": 96,
+        "10월": 89,
+        "11월": 96
+      },
+      "best_score": 87,
+      "handicap": 20
+    },
+    {
+      "name": "윤재상",
+      "score": {
+        "3월": 105,
+        "4월": 96
+      },
+      "best_score": 96,
+      "handicap": 28
+    },
+    {
+      "name": "이승환",
+      "score": {
+        "3월": 109,
+        "4월": 100,
+        "5월": 102,
+        "6월": 104,
+        "8월": 117,
+        "9월": 101,
+        "10월": 107,
+        "11월": 98
+      },
+      "best_score": 98,
+      "handicap": 32
+    },
+    {
+      "name": "이윤주",
+      "score": {
+        "10월": 85
+      },
+      "best_score": 85,
+      "handicap": 13
+    },
+    {
+      "name": "조민정",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "한정한",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "강현철",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "김기현",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "김기훈",
+      "score": {
+        "5월": 96,
+        "9월": 92
+      },
+      "best_score": 92,
+      "handicap": 22
+    },
+    {
+      "name": "박정윤",
+      "score": {
+        "5월": 82,
+        "6월": 83
+      },
+      "best_score": 82,
+      "handicap": 10
+    },
+    {
+      "name": "신현우",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "안정화",
+      "score": {
+        "4월": 86,
+        "5월": 84,
+        "6월": 77,
+        "9월": 85,
+        "10월": 82
+      },
+      "best_score": 77,
+      "handicap": 10
+    },
+    {
+      "name": "이민우",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "이상욱",
+      "score": {
+        "4월": 96,
+        "5월": 96,
+        "8월": 106
+      },
+      "best_score": 96,
+      "handicap": 27
+    },
+    {
+      "name": "이상주",
+      "score": {
+        "4월": 93,
+        "5월": 90,
+        "6월": 92,
+        "9월": 91
+      },
+      "best_score": 90,
+      "handicap": 19
+    },
+    {
+      "name": "정동균",
+      "score": {
+        "4월": 85,
+        "5월": 86,
+        "6월": 86,
+        "8월": 87,
+        "9월": 85,
+        "10월": 86,
+        "11월": 90
+      },
+      "best_score": 85,
+      "handicap": 14
+    },
+    {
+      "name": "태지현",
+      "score": {
+        "4월": 107
+      },
+      "best_score": 107,
+      "handicap": 35
+    },
+    {
+      "name": "한인석",
+      "score": {
+        "4월": 97,
+        "5월": 94,
+        "6월": 86
+      },
+      "best_score": 86,
+      "handicap": 20
+    },
+    {
+      "name": "현숙원",
+      "score": {
+        "5월": 79,
+        "10월": 78
+      },
+      "best_score": 78,
+      "handicap": 6
+    },
+    {
+      "name": "홍신민",
+      "score": {
+        "9월": 82,
+        "10월": 81
+      },
+      "best_score": 81,
+      "handicap": 9
+    },
+    {
+      "name": "손경수",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "김진만",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "박지훈",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "박지혁",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "김민석",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "이지원",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "이수완",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "이영찬",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "황재훈",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "김선경",
+      "score": {
+        "3월": 105,
+        "5월": 95,
+        "10월": 98
+      },
+      "best_score": 95,
+      "handicap": 27
+    },
+    {
+      "name": "김성은",
+      "score": {
+        "5월": 85
+      },
+      "best_score": 85,
+      "handicap": 13
+    },
+    {
+      "name": "김현정",
+      "score": {
+        "4월": 116,
+        "5월": 108,
+        "9월": 108,
+        "10월": 106
+      },
+      "best_score": 106,
+      "handicap": 37
+    },
+    {
+      "name": "나용식",
+      "score": {
+        "5월": 88,
+        "9월": 81,
+        "10월": 84
+      },
+      "best_score": 81,
+      "handicap": 12
+    },
+    {
+      "name": "신혜진",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "우남영",
+      "score": {
+        "4월": 93,
+        "5월": 87,
+        "6월": 86,
+        "8월": 90,
+        "9월": 92,
+        "10월": 96,
+        "11월": 91
+      },
+      "best_score": 86,
+      "handicap": 18
+    },
+    {
+      "name": "이정화",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "임진호",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "전상훈",
+      "score": {
+        "9월": 82
+      },
+      "best_score": 82,
+      "handicap": 10
+    },
+    {
+      "name": "정혜연",
+      "score": {
+        "3월": 90,
+        "5월": 91,
+        "6월": 83,
+        "8월": 89,
+        "9월": 90,
+        "10월": 89,
+        "11월": 87
+      },
+      "best_score": 83,
+      "handicap": 16
+    },
+    {
+      "name": "정혜영",
+      "score": {
+        "11월": 90
+      },
+      "best_score": 90,
+      "handicap": 18
+    },
+    {
+      "name": "조은채",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "채웅석",
+      "score": {
+        "4월": 88,
+        "5월": 85,
+        "6월": 88,
+        "8월": 87,
+        "9월": 84,
+        "10월": 91,
+        "11월": 92
+      },
+      "best_score": 84,
+      "handicap": 15
+    },
+    {
+      "name": "최신규",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "홍동은",
+      "score": {
+        "5월": 85,
+        "8월": 83
+      },
+      "best_score": 83,
+      "handicap": 12
+    },
+    {
+      "name": "권형탁",
+      "score": {
+        "5월": 87,
+        "9월": 86,
+        "10월": 90
+      },
+      "best_score": 86,
+      "handicap": 15
+    },
+    {
+      "name": "박상수",
+      "score": {
+        "6월": 87
+      },
+      "best_score": 87,
+      "handicap": 15
+    },
+    {
+      "name": "박종학",
+      "score": {
+        "5월": 98,
+        "6월": 99,
+        "8월": 99,
+        "10월": 93
+      },
+      "best_score": 93,
+      "handicap": 25
+    },
+    {
+      "name": "서일규",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "심형섭",
+      "score": {
+        "5월": 94,
+        "6월": 91,
+        "8월": 107,
+        "9월": 107,
+        "10월": 107
+      },
+      "best_score": 91,
+      "handicap": 29
+    },
+    {
+      "name": "임성원",
+      "score": {
+        "5월": 99,
+        "6월": 106,
+        "9월": 105,
+        "10월": 108,
+        "11월": 92
+      },
+      "best_score": 92,
+      "handicap": 30
+    },
+    {
+      "name": "조영승",
+      "score": {
+        "3월": 94,
+        "4월": 86,
+        "5월": 89,
+        "6월": 90,
+        "8월": 92,
+        "10월": 94,
+        "11월": 90
+      },
+      "best_score": 86,
+      "handicap": 18
+    },
+    {
+      "name": "홍세훈",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "지승범",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "김경묵",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "김창현",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "남중식",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "전기범",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "조경윤",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "이광섭",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "조희성",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "이용민",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "이수민",
+      "score": {
+        "3월": 96,
+        "4월": 105,
+        "6월": 91,
+        "9월": 104,
+        "10월": 91,
+        "11월": 93
+      },
+      "best_score": 91,
+      "handicap": 24
+    },
+    {
+      "name": "김순탁",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    }
+  ]
+}

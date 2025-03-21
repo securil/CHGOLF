@@ -1,0 +1,69 @@
+{
+    "event": {
+      "id": 410,
+      "date": "2025-03-25",
+      "location": "뉴스프링빌 CC",
+      "startTime": "07:00",
+      "maxParticipants": 40,
+      "currentParticipants": 5,
+      "registrationDeadline": "2025-03-20",
+      "notes": "비회원도 참가 가능합니다. 참가비는 현장에서 결제합니다."
+    },
+    "applications": [
+      {
+        "id": 1,
+        "memberName": "홍길동",
+        "phone": "010-1234-5678",
+        "email": "hong@example.com",
+        "handicap": 15,
+        "carType": "자차",
+        "preferredGroup": "A조",
+        "registrationDate": "2025-03-01",
+        "confirmed": true
+      },
+      {
+        "id": 2,
+        "memberName": "김부회",
+        "phone": "010-2345-6789",
+        "email": "kim@example.com",
+        "handicap": 12,
+        "carType": "동승",
+        "preferredGroup": "A조",
+        "registrationDate": "2025-03-02",
+        "confirmed": true
+      },
+      {
+        "id": 3,
+        "memberName": "이사무",
+        "phone": "010-3456-7890",
+        "email": "lee@example.com",
+        "handicap": 18,
+        "carType": "자차",
+        "preferredGroup": "B조",
+        "registrationDate": "2025-03-03",
+        "confirmed": true
+      },
+      {
+        "id": 4,
+        "memberName": "박총무",
+        "phone": "010-4567-8901",
+        "email": "park@example.com",
+        "handicap": 20,
+        "carType": "동승",
+        "preferredGroup": "B조",
+        "registrationDate": "2025-03-04",
+        "confirmed": false
+      },
+      {
+        "id": 5,
+        "memberName": "최경기",
+        "phone": "010-5678-9012",
+        "email": "choi@example.com",
+        "handicap": 10,
+        "carType": "자차",
+        "preferredGroup": "A조",
+        "registrationDate": "2025-03-05",
+        "confirmed": false
+      }
+    ]
+  }

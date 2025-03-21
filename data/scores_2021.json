@@ -1,0 +1,2045 @@
+{
+  "year": 2021,
+  "members": [
+    {
+      "name": "이연섭",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "허수창",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "이남구",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "박상규",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "임매자",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "정영경",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "정진구",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "강권철",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "강덕중",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "금인호",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "김억조",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "김용빈",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "김준명",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "송영옥",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "안양균",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "유권철",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "유달준",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "윤상호",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "이공욱",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "이명식",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "이은식",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "임풍화",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "조석순",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "김기령",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "김연숙",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "김진완",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "문선",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "문창숙",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "박남준",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "유원재",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "윤소영",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "이양배",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "이필녀",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "한태명",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "홍기영",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "홍사성",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "박흥주",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "이규용",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "손창조",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "정난용",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "정윤용",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "김도태",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "심영숙",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "안남신",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "김원재",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "김종만",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "성국현",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "안희태",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "원유동",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "이강년",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "이기열",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "이성일",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "임우성",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "정인모",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "권영선",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "권오광",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "김경헌",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "김미정",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "김원오",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "김인자",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "노희숙",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "박재식",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "백준기",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "양승우",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "윤관선",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "이진형",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "장재숙",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "차경호",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "최희경",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "현숙희",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "홍영규",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "홍용규",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "홍진오",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "허명렬",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "고경석",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "권영순",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "권오성",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "김진",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "문경호",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "서동훈",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "심상인",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "안정애",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "이경희",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "이미영",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "이승미",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "이준희",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "정영섭",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "진양교",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "최관호",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "김원기",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "민병완",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "박소연",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "송진우",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "이용범",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "이한석",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "천홍득",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "강병헌",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "고광덕",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "김상우",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "김양숙",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "김영순",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "김완수",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "김재헌",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "김판규",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "김해천",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "금준석",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "김희수",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "박춘기",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "변삼선",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "양경미",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "양회란",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "연경희",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "유동훈",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "이경진",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "이재훈",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "정병덕",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "한종수",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "허석자",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "김권섭",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "김덕중",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "김정일",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "김학승",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "노형식",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "박세환",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "안경옥",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "오현덕",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "오호진",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "이상우",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "이인영",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "이채명",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "이현자",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "임동우",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "임승호",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "장덕상",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "장세준",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "장세걸",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "장영석",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "정연삼",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "조남재",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "최정욱",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "최창동",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "김석산",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "김재원",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "김태희",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "박경렬",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "신인기",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "양경숙",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "한순영",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "우종만",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "윤해균",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "전현수",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "최재영",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "김영준",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "박혜숙",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "서운택",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "이상복",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "강인식",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "금화진",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "김인열",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "김창집",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "백승철",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "안재각",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "오방원",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "이성철",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "이용희",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "이호원",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "최형철",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "최홍영",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "김기태",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "김동원",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "김문환",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "김미미",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "김영호",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "김진구",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "김태형",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "김해영",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "김호련",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "박혜경",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "서대석",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "심영복",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "안영광",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "원관희",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "이우창",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "이항복",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "임미경",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "장진원",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "정연석",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "정영순",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "최두환",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "황영식",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "김창현",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "유옥현",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "이애용",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "이영희",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "김문태",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "박기로",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "박미신",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "박찬연",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "송인심",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "송태준",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "신태영",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "신현주",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "양동준",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "유성현",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "은혜정",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "이영화",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "이장원",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "이해준",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "임부귀",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "임은미",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "전성애",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "전환",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "조남규",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "조영진",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "조유연",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "천기수",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "최치영",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "한경수",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "한동직",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "한종헌",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "김형래",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "김연환",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "김성수",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "류지환",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "문병욱",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "변봉렬",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "소연실",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "유대균",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "이관의",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "이상조",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "남희승",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "이은숙",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "이장은",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "이종오",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "이효성",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "정거장",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "정윤성",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "조용노",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "변봉렬",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "최호석",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "김동환",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "김응렬",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "김현정",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "우승훈",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "원시향",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "유수홍",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "윤정희",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "이시훈",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "이윤석",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "임충빈",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "정정수",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "한정일",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "박기홍",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "양승식",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "이규홍",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "이대용",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "이동호",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "임경미",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "김우종",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "김형찬",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "류동석",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "목삼균",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "박상수",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "임종화",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "조일종",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "이영호",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "조일행",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "최현숙",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "한정민",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "황순향",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "권형영",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "김민희",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "김소희",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "김연중",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "김태균",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "임남진",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "오세형",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "안형준",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "윤재상",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "이승환",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "이윤주",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "조민정",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "한정한",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "강현철",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "김기현",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "김기훈",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "박정윤",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "신현우",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "안정화",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "이민우",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "이상욱",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "이상주",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "정동균",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "태지현",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "한인석",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "현숙원",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "홍신민",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "손경수",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "김진만",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "박지훈",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "박지혁",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "김민석",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "이지원",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "이수완",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "이영찬",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "황재훈",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "김선경",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "김성은",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "김현정",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "나용식",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "신혜진",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "우남영",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "이정화",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "임진호",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "전상훈",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "정혜연",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "정혜영",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "조은채",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "채웅석",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "최신규",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "홍동은",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "권형탁",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "박상수",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "박종학",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "서일규",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "심형섭",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "임성원",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "조영승",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "홍세훈",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "지승범",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "김경묵",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "김창현",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "남중식",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "전기범",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "조경윤",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "이광섭",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "조희성",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "이용민",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "이수민",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    },
+    {
+      "name": "김순탁",
+      "score": {},
+      "best_score": null,
+      "handicap": null
+    }
+  ]
+}
