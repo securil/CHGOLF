@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>청구회 - 조편성</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;700&display=swap">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="shortcut icon" href="images/logo/favicon.ico" type="image/x-icon">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+  <!-- 네비게이션 바 -->
+  <nav class="navbar">
+    <div class="container">
+      <a href="index.html" class="navbar-brand">청구<span>회</span></a>
+      <ul class="nav-menu">
+        <li class="nav-item"><a href="index.html" class="nav-link" id="nav-home">홈</a></li>
+        <li class="nav-item"><a href="apply.html" class="nav-link" id="nav-apply">참가신청</a></li>
+        <li class="nav-item"><a href="applications.html" class="nav-link" id="nav-applications">신청자 명단</a></li>
+        <li class="nav-item"><a href="pairing.html" class="nav-link active" id="nav-pairing">조편성</a></li>
+        <li class="nav-item"><a href="mypage.html" class="nav-link" id="nav-mypage">마이페이지</a></li>
+        <li class="nav-item"><a href="statistics.html" class="nav-link" id="nav-statistics">통계</a></li>
+      </ul>
+    </div>
+  </nav>
+  
+  <!-- 메인 콘텐츠 -->
+  <main>
+    <section class="section" id="pairings">
+      <div class="container">
+        <h1 class="section-title">월례회 조편성</h1>
+        
+        <div class="event-info card mb-4 p-3">
+          <div class="row">
+            <div class="col-4">
+              <h2 class="mb-3">월례회 정보</h2>
+              <p><strong>일시:</strong> <span id="event-date">2025년 3월 25일 (화)</span></p>
+              <p><strong>장소:</strong> <span id="event-location">뉴스프링빌 CC</span></p>
+              <p><strong>시작 시간:</strong> <span id="event-time">07:00</span></p>
+            </div>
+            <div class="col">
+              <h2 class="mb-3">조편성 방법</h2>
+              <p>핸디캡 기준으로 고른 분포가 되도록 자동 배치됩니다.</p>
+              <p>특별한 요청사항이나 함께 라운드하고 싶은 분이 있으신 경우 사무국장에게 연락해 주세요.</p>
+              <p><strong>참가자 수:</strong> <span id="participant-count">0</span>명</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="pairings-container mt-5" id="pairings-container">
+          <!-- 조편성 결과가 여기에 자바스크립트로 추가됩니다 -->
+          <div class="text-center">
+            <p>조편성 데이터를 불러오는 중...</p>
+          </div>
+        </div>
+        
+        <div class="notes mt-4 mb-5">
+          <p><i class="fas fa-info-circle text-primary"></i> 위 조편성은 참고용이며, 현장 상황에 따라 변경될 수 있습니다.</p>
+        </div>
+      </div>
+    </section>
+  </main>
+  
+  <!-- 푸터 -->
+  <footer class="footer">
+    <div class="container">
+      <div class="footer-info">
+        <div class="footer-logo">청구<span>회</span></div>
+        <p>서울사대부고 졸업생 중 골프를 사랑하는 동문들이 모여 함께 라운딩하며 우정과 건강, 그리고 지속적인 교류를 이어가는 모임입니다.</p>
+      </div>
+      <div class="footer-links">
+        <h3>바로가기</h3>
+        <ul>
+          <li><a href="index.html">홈</a></li>
+          <li><a href="apply.html">참가신청</a></li>
+          <li><a href="applications.html">신청자 명단</a></li>
+          <li><a href="pairing.html">조편성</a></li>
+          <li><a href="statistics.html">통계</a></li>
+        </ul>
+      </div>
+      <div class="footer-links">
+        <h3>연락처</h3>
+        <ul>
+          <li>이메일: chgolf@example.com</li>
+          <li>전화: 010-1234-5678</li>
+        </ul>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <div class="container">
+        <p>© 2025 청구회. All Rights Reserved.</p>
+      </div>
+    </div>
+  </footer>
+  
+  <!-- 스크립트 -->
+  <script src="js/main.js"></script>
+  <script src="js/data-utils.js"></script>
+  <script src="js/pairing.js"></script>
+  <script src="js/ui-effects.js"></script>
+</body>
+</html>

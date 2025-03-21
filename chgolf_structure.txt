@@ -1,0 +1,30 @@
+DATA2 볼륨에 대한 폴더 경로의 목록입니다.
+볼륨 일련 번호가 0000006F D8DC:A262입니다.
+D:\CHGOLF
+│  apply.html
+│  chgolf_structure.txt
+│  create_chgolf.bat
+│  mypage.html
+│  statistics.html
+│  
+├─components
+│      about.html
+│      gallery.html
+│      greeting.html
+│      hero.html
+│      navbar.html
+│      org_chart.html
+│      plans_2025.html
+│      
+├─css
+│      style.css
+│      
+├─data
+├─images
+└─js
+        apply.js
+        chart.js
+        main.js
+        pairing.js
+        statistics.js
+        

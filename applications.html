@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>청구회 - 신청자 명단</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;700&display=swap">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="shortcut icon" href="images/logo/favicon.ico" type="image/x-icon">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+</head>
+<body>
+  <!-- 네비게이션 바 -->
+  <nav class="navbar">
+    <div class="container">
+      <a href="index.html" class="navbar-brand">청구<span>회</span></a>
+      <ul class="nav-menu">
+        <li class="nav-item"><a href="index.html" class="nav-link" id="nav-home">홈</a></li>
+        <li class="nav-item"><a href="apply.html" class="nav-link" id="nav-apply">참가신청</a></li>
+        <li class="nav-item"><a href="applications.html" class="nav-link active" id="nav-applications">신청자 명단</a></li>
+        <li class="nav-item"><a href="pairing.html" class="nav-link" id="nav-pairing">조편성</a></li>
+        <li class="nav-item"><a href="mypage.html" class="nav-link" id="nav-mypage">마이페이지</a></li>
+        <li class="nav-item"><a href="statistics.html" class="nav-link" id="nav-statistics">통계</a></li>
+      </ul>
+    </div>
+  </nav>
+  
+  <!-- 메인 콘텐츠 -->
+  <main>
+    <section class="section" id="applications-list">
+      <div class="container">
+        <h1 class="section-title">월례회 신청자 명단</h1>
+        
+        <div class="card mb-4">
+          <div class="event-info mb-4">
+            <h2 class="mb-3">다음 월례회 정보</h2>
+            <div class="row">
+              <div class="col-4">
+                <p><strong>일시:</strong> <span id="event-date">2025년 3월 25일 (화)</span></p>
+                <p><strong>장소:</strong> <span id="event-location">뉴스프링빌 CC</span></p>
+              </div>
+              <div class="col">
+                <p><strong>신청 인원:</strong> <span id="confirmed-count">3</span>명 확정 / <span id="total-count">5</span>명 신청</p>
+                <p><strong>마감일:</strong> <span id="event-deadline">2025년 3월 20일</span></p>
+              </div>
+            </div>
+          </div>
+          
+          <div class="mb-3">
+            <h3>신청자 명단</h3>
+            <div class="table-responsive">
+              <table class="table" id="applications-table">
+                <thead>
+                  <tr>
+                    <th>No.</th>
+                    <th>이름</th>
+                    <th>핸디캡</th>
+                    <th>차량</th>
+                    <th>선호 조</th>
+                    <th>신청일</th>
+                    <th>상태</th>
+                  </tr>
+                </thead>
+                <tbody id="applications-tbody">
+                  <!-- 신청자 목록이 여기에 자바스크립트로 추가됩니다 -->
+                  <tr>
+                    <td colspan="7" class="text-center">신청자 데이터를 불러오는 중...</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+        
+        <div class="notes mt-3 mb-5">
+          <p><i class="fas fa-info-circle text-primary"></i> 위 명단은 신청 현황만 표시합니다. 최종 참가자 및 조편성은 <a href="pairing.html">조편성</a> 페이지에서 확인하세요.</p>
+        </div>
+      </div>
+    </section>
+  </main>
+  
+  <!-- 푸터 -->
+  <footer class="footer">
+    <div class="container">
+      <div class="footer-info">
+        <div class="footer-logo">청구<span>회</span></div>
+        <p>서울사대부고 졸업생 중 골프를 사랑하는 동문들이 모여 함께 라운딩하며 우정과 건강, 그리고 지속적인 교류를 이어가는 모임입니다.</p>
+      </div>
+      <div class="footer-links">
+        <h3>바로가기</h3>
+        <ul>
+          <li><a href="index.html">홈</a></li>
+          <li><a href="apply.html">참가신청</a></li>
+          <li><a href="applications.html">신청자 명단</a></li>
+          <li><a href="pairing.html">조편성</a></li>
+          <li><a href="statistics.html">통계</a></li>
+        </ul>
+      </div>
+      <div class="footer-links">
+        <h3>연락처</h3>
+        <ul>
+          <li>이메일: chgolf@example.com</li>
+          <li>전화: 010-1234-5678</li>
+        </ul>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <div class="container">
+        <p>© 2025 청구회. All Rights Reserved.</p>
+      </div>
+    </div>
+  </footer>
+  
+  <!-- 스크립트 -->
+  <script src="js/main.js"></script>
+  <script src="js/data-utils.js"></script>
+  <script src="js/applications.js"></script>
+  <script src="js/ui-effects.js"></script>
+</body>
+</html>

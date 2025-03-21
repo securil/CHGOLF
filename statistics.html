@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>청구회 - 통계</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;700&display=swap">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="shortcut icon" href="images/logo/favicon.ico" type="image/x-icon">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+</head>
+<body>
+  <!-- 네비게이션 바 -->
+  <nav class="navbar">
+    <div class="container">
+      <a href="index.html" class="navbar-brand">청구<span>회</span></a>
+      <ul class="nav-menu">
+        <li class="nav-item"><a href="index.html" class="nav-link" id="nav-home">홈</a></li>
+        <li class="nav-item"><a href="apply.html" class="nav-link" id="nav-apply">참가신청</a></li>
+        <li class="nav-item"><a href="applications.html" class="nav-link" id="nav-applications">신청자 명단</a></li>
+        <li class="nav-item"><a href="pairing.html" class="nav-link" id="nav-pairing">조편성</a></li>
+        <li class="nav-item"><a href="mypage.html" class="nav-link" id="nav-mypage">마이페이지</a></li>
+        <li class="nav-item"><a href="statistics.html" class="nav-link active" id="nav-statistics">통계</a></li>
+      </ul>
+    </div>
+  </nav>
+  
+  <!-- 메인 콘텐츠 -->
+  <main>
+    <section class="section" id="statistics">
+      <div class="container">
+        <h1 class="section-title">청구회 통계</h1>
+        
+        <!-- 주요 통계 카드 -->
+        <div class="row stats-cards mb-5">
+          <div class="col-4">
+            <div class="stat-card">
+              <h3 class="stat-label">회원 수</h3>
+              <div class="stat-number" id="total-members">0</div>
+              <p>청구회 전체 회원 수</p>
+            </div>
+          </div>
+          <div class="col-4">
+            <div class="stat-card">
+              <h3 class="stat-label">평균 핸디캡</h3>
+              <div class="stat-number" id="avg-handicap">0</div>
+              <p>모든 회원의 평균 핸디캡</p>
+            </div>
+          </div>
+          <div class="col-4">
+            <div class="stat-card">
+              <h3 class="stat-label">평균 스코어</h3>
+              <div class="stat-number" id="avg-score">0</div>
+              <p>지난 월례회 평균 스코어</p>
+            </div>
+          </div>
+        </div>
+        
+        <!-- 연도별 데이터 추이 -->
+        <div class="card mb-5 p-3">
+          <h2 class="mb-3">연도별 데이터 추이</h2>
+          <div class="tab-buttons">
+            <button class="tab-btn active" data-tab="score-tab">평균 스코어</button>
+            <button class="tab-btn" data-tab="handicap-tab">평균 핸디캡</button>
+            <button class="tab-btn" data-tab="attendance-tab">월별 참가자 수</button>
+          </div>
+          <div class="tab-content">
+            <div class="tab-pane active" id="score-tab">
+              <canvas id="yearly-score-chart"></canvas>
+            </div>
+            <div class="tab-pane" id="handicap-tab">
+              <canvas id="yearly-handicap-chart"></canvas>
+            </div>
+            <div class="tab-pane" id="attendance-tab">
+              <canvas id="attendance-chart"></canvas>
+            </div>
+          </div>
+        </div>
+        
+        <!-- 핸디캡 순위 -->
+        <div class="card mb-5 p-3" id="handicap-ranking">
+          <h2 class="mb-3">핸디캡 랭킹 (Top 10)</h2>
+          <div class="table-responsive">
+            <table class="table" id="handicap-table">
+              <thead>
+                <tr>
+                  <th>순위</th>
+                  <th>이름</th>
+                  <th>핸디캡</th>
+                  <th>최고 스코어</th>
+                </tr>
+              </thead>
+              <tbody id="handicap-tbody">
+                <!-- 핸디캡 순위가 자바스크립트로 추가됩니다 -->
+                <tr>
+                  <td colspan="4" class="text-center">데이터를 불러오는 중...</td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+        
+        <!-- 출석률 순위 -->
+        <div class="card mb-5 p-3" id="attendance-ranking">
+          <h2 class="mb-3">출석률 랭킹 (Top 10)</h2>
+          <div class="table-responsive">
+            <table class="table" id="attendance-rate-table">
+              <thead>
+                <tr>
+                  <th>순위</th>
+                  <th>이름</th>
+                  <th>출석 횟수</th>
+                  <th>출석률</th>
+                </tr>
+              </thead>
+              <tbody id="attendance-rate-tbody">
+                <!-- 출석률 순위가 자바스크립트로 추가됩니다 -->
+                <tr>
+                  <td colspan="4" class="text-center">데이터를 불러오는 중...</td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+  
+  <!-- 푸터 -->
+  <footer class="footer">
+    <div class="container">
+      <div class="footer-info">
+        <div class="footer-logo">청구<span>회</span></div>
+        <p>서울사대부고 졸업생 중 골프를 사랑하는 동문들이 모여 함께 라운딩하며 우정과 건강, 그리고 지속적인 교류를 이어가는 모임입니다.</p>
+      </div>
+      <div class="footer-links">
+        <h3>바로가기</h3>
+        <ul>
+          <li><a href="index.html">홈</a></li>
+          <li><a href="apply.html">참가신청</a></li>
+          <li><a href="applications.html">신청자 명단</a></li>
+          <li><a href="pairing.html">조편성</a></li>
+          <li><a href="statistics.html">통계</a></li>
+        </ul>
+      </div>
+      <div class="footer-links">
+        <h3>연락처</h3>
+        <ul>
+          <li>이메일: chgolf@example.com</li>
+          <li>전화: 010-1234-5678</li>
+        </ul>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <div class="container">
+        <p>© 2025 청구회. All Rights Reserved.</p>
+      </div>
+    </div>
+  </footer>
+  
+  <!-- 스크립트 -->
+  <script src="js/main.js"></script>
+  <script src="js/data-utils.js"></script>
+  <script src="js/statistics.js"></script>
+  <script src="js/ui-effects.js"></script>
+</body>
+</html>

@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>청구회 - 마이페이지</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;700&display=swap">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="shortcut icon" href="images/logo/favicon.ico" type="image/x-icon">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+  <!-- 네비게이션 바 -->
+  <nav class="navbar">
+    <div class="container">
+      <a href="index.html" class="navbar-brand">청구<span>회</span></a>
+      <ul class="nav-menu">
+        <li class="nav-item"><a href="index.html" class="nav-link" id="nav-home">홈</a></li>
+        <li class="nav-item"><a href="apply.html" class="nav-link" id="nav-apply">참가신청</a></li>
+        <li class="nav-item"><a href="applications.html" class="nav-link" id="nav-applications">신청자 명단</a></li>
+        <li class="nav-item"><a href="pairing.html" class="nav-link" id="nav-pairing">조편성</a></li>
+        <li class="nav-item"><a href="mypage.html" class="nav-link active" id="nav-mypage">마이페이지</a></li>
+        <li class="nav-item"><a href="statistics.html" class="nav-link" id="nav-statistics">통계</a></li>
+      </ul>
+    </div>
+  </nav>
+  
+  <!-- 메인 콘텐츠 -->
+  <main>
+    <section class="section" id="mypage">
+      <div class="container">
+        <h1 class="section-title">내 골프 통계</h1>
+        
+        <!-- 회원 선택 드롭다운 -->
+        <div class="card mb-4 p-3">
+          <div class="form-group">
+            <label for="member-select">회원 선택:</label>
+            <select id="member-select" class="form-control">
+              <option value="">회원을 선택하세요</option>
+              <!-- 회원 목록이 자바스크립트로 추가됩니다 -->
+            </select>
+          </div>
+        </div>
+        
+        <!-- 회원 정보 카드 -->
+        <div class="profile-card mb-4 hidden" id="profile-section">
+          <div class="row">
+            <div class="col-4">
+              <div class="profile-stats">
+                <h2 id="member-name">김회원</h2>
+                <p><strong>핸디캡:</strong> <span id="member-handicap">15</span></p>
+                <p><strong>최고 스코어:</strong> <span id="member-best-score">85</span></p>
+                <p><strong>최근 참가 일자:</strong> <span id="member-last-attendance">2024년 5월</span></p>
+                <p><strong>참가율:</strong> <span id="member-attendance-rate">75%</span></p>
+              </div>
+            </div>
+            <div class="col">
+              <div class="profile-charts">
+                <div class="card p-3 mb-3">
+                  <h3>최근 핸디캡 추이</h3>
+                  <canvas id="handicap-chart"></canvas>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        
+        <!-- 스코어 트렌드 차트 -->
+        <div class="score-trends mb-4 hidden" id="score-section">
+          <h2 class="mb-3">스코어 트렌드</h2>
+          <div class="card p-3">
+            <canvas id="score-chart"></canvas>
+          </div>
+        </div>
+        
+        <!-- 참가 기록 -->
+        <div class="attendance-history mb-4 hidden" id="attendance-section">
+          <h2 class="mb-3">참가 기록</h2>
+          <div class="table-responsive">
+            <table class="table" id="attendance-table">
+              <thead>
+                <tr>
+                  <th>날짜</th>
+                  <th>스코어</th>
+                  <th>핸디캡</th>
+                  <th>비고</th>
+                </tr>
+              </thead>
+              <tbody id="attendance-tbody">
+                <!-- 참가 기록이 자바스크립트로 추가됩니다 -->
+              </tbody>
+            </table>
+          </div>
+        </div>
+        
+        <div class="empty-state" id="empty-state">
+          <div class="text-center">
+            <img src="https://via.placeholder.com/150" alt="골프 아이콘" class="mb-3">
+            <h3>내 골프 통계 확인하기</h3>
+            <p>상단의 드롭다운에서 회원을 선택하여 개인 통계를 확인하세요.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+  
+  <!-- 푸터 -->
+  <footer class="footer">
+    <div class="container">
+      <div class="footer-info">
+        <div class="footer-logo">청구<span>회</span></div>
+        <p>서울사대부고 졸업생 중 골프를 사랑하는 동문들이 모여 함께 라운딩하며 우정과 건강, 그리고 지속적인 교류를 이어가는 모임입니다.</p>
+      </div>
+      <div class="footer-links">
+        <h3>바로가기</h3>
+        <ul>
+          <li><a href="index.html">홈</a></li>
+          <li><a href="apply.html">참가신청</a></li>
+          <li><a href="applications.html">신청자 명단</a></li>
+          <li><a href="pairing.html">조편성</a></li>
+          <li><a href="statistics.html">통계</a></li>
+        </ul>
+      </div>
+      <div class="footer-links">
+        <h3>연락처</h3>
+        <ul>
+          <li>이메일: chgolf@example.com</li>
+          <li>전화: 010-1234-5678</li>
+        </ul>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <div class="container">
+        <p>© 2025 청구회. All Rights Reserved.</p>
+      </div>
+    </div>
+  </footer>
+  
+  <!-- 스크립트 -->
+  <script src="js/main.js"></script>
+  <script src="js/data-utils.js"></script>
+  <script src="js/mypage.js"></script>
+  <script src="js/ui-effects.js"></script>
+</body>
+</html>
