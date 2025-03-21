@@ -197,3 +197,298 @@ function showMemberDetails(memberId) {
               <th>날짜</th>
               <th>코스</th>
               <th>스코어</th
+// admin.js (계속)
+              <th>날짜</th>
+              <th>코스</th>
+              <th>스코어</th>
+              <th>상세</th>
+            </tr>
+          </thead>
+          <tbody>
+  `;
+  
+  // 최근 스코어 정렬
+  const recentScores = [...memberScores]
+    .sort((a, b) => new Date(b.date) - new Date(a.date))
+    .slice(0, 5);
+  
+  if (recentScores.length === 0) {
+    modalContent += '<tr><td colspan="4">기록된 스코어가 없습니다.</td></tr>';
+  } else {
+    recentScores.forEach(score => {
+      modalContent += `
+        <tr>
+          <td>${formatDate(score.date)}</td>
+          <td>${score.course}</td>
+          <td>${score.totalScore}</td>
+          <td>
+            <button class="btn btn-sm" onclick="showScoreDetails('${score.id}')">
+              상세
+            </button>
+          </td>
+        </tr>
+      `;
+    });
+  }
+  
+  modalContent += `
+          </tbody>
+        </table>
+      </div>
+      
+      <div class="modal-footer">
+        <button class="btn btn-primary" onclick="closeModal()">닫기</button>
+      </div>
+    </div>
+  `;
+  
+  // 모달 표시
+  showModal(modalContent);
+}
+
+// 스코어 상세 정보 표시
+function showScoreDetails(scoreId) {
+  const { scores } = window.adminData;
+  
+  // 스코어 정보 찾기
+  const score = scores.find(s => s.id === scoreId);
+  if (!score) {
+    alert('스코어 정보를 찾을 수 없습니다.');
+    return;
+  }
+  
+  // 모달 내용 생성
+  const modalContent = `
+    <div class="score-details">
+      <h2>스코어 상세 정보</h2>
+      
+      <div class="details-section">
+        <h3>기본 정보</h3>
+        <p><strong>날짜:</strong> ${formatDate(score.date)}</p>
+        <p><strong>코스:</strong> ${score.course}</p>
+        <p><strong>총 스코어:</strong> ${score.totalScore}</p>
+      </div>
+      
+      <div class="details-section">
+        <h3>세부 스코어</h3>
+        <p><strong>전반:</strong> ${score.details.front9}</p>
+        <p><strong>후반:</strong> ${score.details.back9}</p>
+        <p><strong>퍼팅:</strong> ${score.details.putts}</p>
+        <p><strong>페어웨이 안착:</strong> ${score.details.fairways}/18</p>
+        <p><strong>그린 적중:</strong> ${score.details.greens}/18</p>
+      </div>
+      
+      <div class="modal-footer">
+        <button class="btn btn-primary" onclick="closeModal()">닫기</button>
+      </div>
+    </div>
+  `;
+  
+  // 모달 표시
+  showModal(modalContent);
+}
+
+// 통계 대시보드 표시
+function showStatsDashboard() {
+  const { members, scores, attendances } = window.adminData;
+  
+  // 평균 스코어 계산
+  const avgScore = scores.length > 0
+    ? (scores.reduce((sum, score) => sum + score.totalScore, 0) / scores.length).toFixed(1)
+    : '-';
+  
+  // 기수별 평균 스코어
+  const classSummary = {};
+  
+  members.forEach(member => {
+    const memberScores = scores.filter(score => score.userId === member.id);
+    
+    if (memberScores.length > 0) {
+      const memberAvg = memberScores.reduce((sum, score) => sum + score.totalScore, 0) / memberScores.length;
+      
+      if (!classSummary[member.class]) {
+        classSummary[member.class] = {
+          count: 0,
+          totalScore: 0
+        };
+      }
+      
+      classSummary[member.class].count++;
+      classSummary[member.class].totalScore += memberAvg;
+    }
+  });
+  
+  // 클래스별 평균 계산
+  Object.keys(classSummary).forEach(classKey => {
+    const classData = classSummary[classKey];
+    classData.average = (classData.totalScore / classData.count).toFixed(1);
+  });
+  
+  // 참석률 계산
+  const attendanceRates = {};
+  
+  attendances.forEach(event => {
+    const year = new Date(event.date).getFullYear();
+    
+    if (!attendanceRates[year]) {
+      attendanceRates[year] = {
+        total: 0,
+        attended: 0
+      };
+    }
+    
+    attendanceRates[year].total += members.length;
+    attendanceRates[year].attended += event.attendees.length;
+  });
+  
+  // 년도별 참석률 계산
+  Object.keys(attendanceRates).forEach(year => {
+    const yearData = attendanceRates[year];
+    yearData.rate = (yearData.attended / yearData.total * 100).toFixed(1);
+  });
+  
+  // 모달 내용 생성
+  let modalContent = `
+    <div class="stats-dashboard">
+      <h2>전체 통계 대시보드</h2>
+      
+      <div class="details-section">
+        <h3>개요</h3>
+        <p><strong>총 회원수:</strong> ${members.length}명</p>
+        <p><strong>총 라운드 수:</strong> ${scores.length}회</p>
+        <p><strong>전체 평균 스코어:</strong> ${avgScore}</p>
+      </div>
+      
+      <div class="details-section">
+        <h3>기수별 평균 스코어</h3>
+        <table class="stats-table">
+          <thead>
+            <tr>
+              <th>기수</th>
+              <th>평균 스코어</th>
+              <th>회원 수</th>
+            </tr>
+          </thead>
+          <tbody>
+  `;
+  
+  // 기수 정렬
+  const sortedClasses = Object.keys(classSummary).sort((a, b) => a - b);
+  
+  sortedClasses.forEach(classKey => {
+    const classData = classSummary[classKey];
+    modalContent += `
+      <tr>
+        <td>${classKey}기</td>
+        <td>${classData.average}</td>
+        <td>${classData.count}명</td>
+      </tr>
+    `;
+  });
+  
+  modalContent += `
+          </tbody>
+        </table>
+      </div>
+      
+      <div class="details-section">
+        <h3>년도별 참석률</h3>
+        <table class="stats-table">
+          <thead>
+            <tr>
+              <th>년도</th>
+              <th>참석률</th>
+              <th>이벤트 수</th>
+            </tr>
+          </thead>
+          <tbody>
+  `;
+  
+  // 년도 정렬
+  const sortedYears = Object.keys(attendanceRates).sort((a, b) => b - a);
+  
+  sortedYears.forEach(year => {
+    const yearData = attendanceRates[year];
+    const eventCount = attendances.filter(event => new Date(event.date).getFullYear().toString() === year).length;
+    
+    modalContent += `
+      <tr>
+        <td>${year}년</td>
+        <td>${yearData.rate}%</td>
+        <td>${eventCount}회</td>
+      </tr>
+    `;
+  });
+  
+  modalContent += `
+          </tbody>
+        </table>
+      </div>
+      
+      <div class="modal-footer">
+        <button class="btn btn-primary" onclick="closeModal()">닫기</button>
+      </div>
+    </div>
+  `;
+  
+  // 모달 표시
+  showModal(modalContent);
+}
+
+// 모달 표시 함수
+function showModal(content) {
+  // 기존 모달 제거
+  closeModal();
+  
+  // 모달 컨테이너 생성
+  const modal = document.createElement('div');
+  modal.id = 'detail-modal';
+  modal.className = 'modal';
+  modal.innerHTML = `
+    <div class="modal-content">
+      ${content}
+    </div>
+  `;
+  
+  // 모달 추가
+  document.body.appendChild(modal);
+  
+  // 모달 표시 (애니메이션을 위한 지연)
+  setTimeout(() => {
+    modal.classList.add('show');
+  }, 10);
+}
+
+// 모달 닫기 함수
+function closeModal() {
+  const modal = document.getElementById('detail-modal');
+  if (modal) {
+    modal.classList.remove('show');
+    
+    // 애니메이션 완료 후 제거
+    setTimeout(() => {
+      modal.remove();
+    }, 300);
+  }
+}
+
+// 전화번호 포맷팅
+function formatPhone(phone) {
+  // 전화번호가 이미 포맷팅되어 있는 경우
+  if (phone.includes('-')) return phone;
+  
+  // 10자리 또는 11자리 전화번호 포맷팅
+  if (phone.length === 10) {
+    return `${phone.substring(0, 3)}-${phone.substring(3, 6)}-${phone.substring(6)}`;
+  } else if (phone.length === 11) {
+    return `${phone.substring(0, 3)}-${phone.substring(3, 7)}-${phone.substring(7)}`;
+  }
+  
+  return phone;
+}
+
+// 날짜 포맷팅 함수
+function formatDate(dateString) {
+  const date = new Date(dateString);
+  return `${date.getFullYear()}.${(date.getMonth() + 1).toString().padStart(2, '0')}.${date.getDate().toString().padStart(2, '0')}`;
+}
