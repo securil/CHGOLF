@@ -1,13 +1,34 @@
+<!-- components/navbar.html -->
 <nav class="navbar">
-    <div class="container">
-      <a href="index.html" class="navbar-brand">청구<span>회</span></a>
-      <ul class="nav-menu">
-        <li class="nav-item"><a href="index.html" class="nav-link" id="nav-home">홈</a></li>
-        <li class="nav-item"><a href="apply.html" class="nav-link" id="nav-apply">참가신청</a></li>
-        <li class="nav-item"><a href="applications.html" class="nav-link" id="nav-applications">신청자 명단</a></li>
-        <li class="nav-item"><a href="pairing.html" class="nav-link" id="nav-pairing">조편성</a></li>
-        <li class="nav-item"><a href="mypage.html" class="nav-link" id="nav-mypage">마이페이지</a></li>
-        <li class="nav-item"><a href="statistics.html" class="nav-link" id="nav-statistics">통계</a></li>
-      </ul>
+  <div class="container">
+    <a href="index.html" class="navbar-brand">청구<span>회</span></a>
+    <ul class="nav-menu">
+      <li class="nav-item"><a href="index.html" class="nav-link" id="nav-home">홈</a></li>
+      <li class="nav-item"><a href="apply.html" class="nav-link" id="nav-apply">참가신청</a></li>
+      <li class="nav-item"><a href="applications.html" class="nav-link" id="nav-applications">신청자 명단</a></li>
+      <li class="nav-item"><a href="pairing.html" class="nav-link" id="nav-pairing">조편성</a></li>
+      <li class="nav-item"><a href="mypage.html" class="nav-link" id="nav-mypage">마이페이지</a></li>
+      <li class="nav-item"><a href="statistics.html" class="nav-link" id="nav-statistics">통계</a></li>
+      <!-- 관리자 메뉴 (로그인 후 관리자에게만 표시) -->
+      <li class="nav-item admin-only" style="display: none;"><a href="admin.html" class="nav-link" id="nav-admin">관리자</a></li>
+    </ul>
+    
+    <!-- 로그인/사용자 정보 섹션 -->
+    <div class="auth-section">
+      <!-- 로그인 전 보이는 버튼 -->
+      <button id="login-btn" class="btn btn-outline">로그인</button>
+      
+      <!-- 로그인 후 보이는 정보 -->
+      <div id="user-info" class="user-info" style="display: none;">
+        <span id="user-name">회원님</span>
+        <div class="user-dropdown">
+          <button class="user-dropdown-btn"><i class="fas fa-user-circle"></i></button>
+          <div class="user-dropdown-content">
+            <a href="mypage.html">내 정보</a>
+            <a href="#" id="logout-btn">로그아웃</a>
+          </div>
+        </div>
+      </div>
     </div>
-  </nav>
+  </div>
+</nav>
